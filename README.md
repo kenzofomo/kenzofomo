@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=KENZO%20%F0%9F%A5%B7&fontSize=48&fontColor=e8e8e8&fontAlignY=40&desc=building%20in%20the%20shadows%20of%20memecoin%20markets&descAlignY=62&descSize=16&descColor=999999&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=KENZO&fontSize=48&fontColor=e8e8e8&fontAlignY=40&desc=building%20in%20the%20shadows%20of%20memecoin%20markets&descAlignY=62&descSize=16&descColor=999999&animation=fadeIn" />
 
 <br/>
 
@@ -14,9 +14,7 @@
 
 </div>
 
-<br/>
-
-## 業 about me
+## 🥷 about me
 
 ```js
 const kenzo = {
@@ -28,54 +26,36 @@ const kenzo = {
 };
 ```
 
-<br/>
-
-## 刀 what I work on
+## ⚡ what I work on
 
 | area | what it means in practice |
 |---|---|
-| ⚡ launch sniping | Bots that catch new pairs the moment liquidity lands, filter by rules, execute without hesitation |
-| 👁 on-chain scanning | Real-time tracking of new tokens, whale wallets, liquidity pulls and rug patterns — straight from the chain |
-| ⚙ automation | Infra that removes reaction-time as a bottleneck — the bot doesn't blink |
-| 🧪 experiments | Small, sharp ideas that live or die by whether they actually print |
+| launch sniping | Bots that catch new pairs the moment liquidity lands, filter by rules, execute without hesitation |
+| on-chain scanning | Real-time tracking of new tokens, whale wallets, liquidity pulls and rug patterns — straight from the chain |
+| automation | Infra that removes reaction-time as a bottleneck — the bot doesn't blink |
+| experiments | Small, sharp ideas that live or die by whether they actually print |
 
 Nothing here is theory. If it's on the repo, it's been run against a live market.
 
-<br/>
-
-## 影 now shipping
+## 🚀 now shipping
 
 **memecoin sniper** — detect → filter → execute, tuned for speed over everything
 
 **on-chain scanner** — liquidity, holders and wallet behavior, read straight from logs
 
-<br/>
 
-## 月 stats
+## 🏹 Wallets
 
-<div align="center">
+<blockquote>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kenzofomo&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofomo&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999" />
+  **SOL** &nbsp; <code>9M5AB3E2oiFoNPivm2r7wsUSrC3JuoXu3tqNX8UZM8S</code>
 
-<br/>
+  **Robinhood** &nbsp; <code>0x8e40401d502a7fe4cf65f86323e87194f3ef928c</code>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenzofomo&theme=dark&hide_border=true&background=000000&stroke=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  *this is the only official set — verify before binding to any contract or launch*
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kenzofomo&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=999999&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`speed over noise` · `test on-chain, not in theory` · `ship quiet`
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer" />
-
-</div>
+  </blockquote>
+</blockquote>
+    
+  </td></tr>
+</table>
